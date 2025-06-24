@@ -13,7 +13,7 @@ Tamanho: ~ 6.000 registros
 
 Formato: CSV
 
-🎯 Objetivos da Análise
+## 🎯 Objetivos da Análise
 Identificar a quantidade de filmes x séries disponíveis na plataforma.
 
 Analisar os países com maior produção de conteúdo.
@@ -24,7 +24,7 @@ Entender os principais gêneros presentes na Netflix.
 
 Explorar dados de diretores, elencos e classificação indicativa.
 
-🛠️ Ferramentas e Tecnologias Utilizadas
+###🛠️ Ferramentas e Tecnologias Utilizadas
 Python 3
 
 Jupyter Notebook
@@ -35,7 +35,7 @@ Matplotlib
 
 Seaborn
 
-📈 Principais Análises Realizadas
+## 📈 Principais Análises Realizadas
 📌 Distribuição entre Filmes e Séries
 
 📌 Evolução de títulos lançados por ano
@@ -46,7 +46,7 @@ Seaborn
 
 📌 Classificação etária mais comum
 
-🔍 Principais Insights
+## 🔍 Principais Insights
 O catálogo da Netflix possui uma maior quantidade de filmes em relação a séries.
 
 O maior volume de lançamentos ocorreu por volta de 2019.
@@ -56,7 +56,8 @@ Os Estados Unidos lideram como o país com mais títulos disponíveis.
 Os gêneros mais populares são Drama, Comédia e Documentário.
 
 ✅ Como Executar o Projeto
-Faça o download do dataset no Kaggle.
+Faça o download do dataset no Kaggle para explorar os dados utilizados neste projeto 
+acesse: [https://pmdb.dev](https://pmdb.dev)
 
 Clone este repositório:
 ```bash
