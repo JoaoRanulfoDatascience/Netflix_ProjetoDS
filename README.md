@@ -1,4 +1,4 @@
-#📊 Análise Exploratória de Dados - Catálogo Netflix 🎬
+📊 Análise Exploratória de Dados - Catálogo Netflix 🎬
 📍 Sobre o Projeto
 Este projeto tem como objetivo realizar uma Análise Exploratória de Dados (EDA) utilizando o dataset público da Netflix disponível no Kaggle. A ideia é explorar o catálogo de títulos (filmes e séries), entender padrões de lançamento, distribuição por país, tipo de conteúdo e outras características relevantes.
 
