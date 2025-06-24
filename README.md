@@ -57,7 +57,7 @@ Os gêneros mais populares são Drama, Comédia e Documentário.
 
 ✅ Como Executar o Projeto
 Faça o download do dataset no Kaggle para explorar os dados utilizados neste projeto 
-acesse: [https://pmdb.dev](https://pmdb.dev)
+acesse: [https://www.kaggle.com/datasets/octopusteam/full-netflix-dataset]
 
 Clone este repositório:
 ```bash
