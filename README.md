@@ -24,7 +24,7 @@ Entender os principais gêneros presentes na Netflix.
 
 Explorar dados de diretores, elencos e classificação indicativa.
 
-###🛠️ Ferramentas e Tecnologias Utilizadas
+### 🛠️ Ferramentas e Tecnologias Utilizadas
 Python 3
 
 Jupyter Notebook
