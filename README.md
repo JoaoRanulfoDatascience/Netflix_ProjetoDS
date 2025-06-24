@@ -82,7 +82,7 @@ Se quiser saber mais ou tiver sugestões:
 
 📧 Email: [joaouninove@hotmail.com]
 
-💼 LinkedIn: [linkedin.com/in/joão-ranulfo-eloia-18713ab7]
+💼 LinkedIn: [https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BgtW2kgFBSwqxStIw8zl3bw%3D%3D]
 
 🐍 GitHub: [https://github.com/JoaoRanulfoDatascience]
 
