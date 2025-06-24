@@ -57,23 +57,17 @@ Os gêneros mais populares são Drama, Comédia e Documentário.
 Faça o download do dataset no Kaggle.
 
 Clone este repositório:
-
-bash
-Copiar
-
+```bash
 git clone https://github.com/JoaoRanulfoDatascience/Netflix-EDA.git
+```
 Instale as dependências:
-
-bash
-Copiar
-
+```bash
 pip install -r requirements.txt
+```
 Execute o Jupyter Notebook:
-
-bash
-Copiar
-
+```bash
 jupyter notebook
+```
 Abra o arquivo Netflix_EDA.ipynb e explore as análises.
 
 📌 Próximos Passos (Melhorias Futuras)
