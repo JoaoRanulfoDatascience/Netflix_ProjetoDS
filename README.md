@@ -60,19 +60,19 @@ Clone este repositório:
 
 bash
 Copiar
-Editar
+
 git clone https://github.com/JoaoRanulfoDatascience/Netflix-EDA.git
 Instale as dependências:
 
 bash
 Copiar
-Editar
+
 pip install -r requirements.txt
 Execute o Jupyter Notebook:
 
 bash
 Copiar
-Editar
+
 jupyter notebook
 Abra o arquivo Netflix_EDA.ipynb e explore as análises.
 
@@ -86,7 +86,7 @@ Enriquecer a análise com dados externos (IMDb Ratings, por exemplo).
 ✉️ Contato
 Se quiser saber mais ou tiver sugestões:
 
-📧 Email: [joãouninove@hotmail.com]
+📧 Email: [joaouninove@hotmail.com]
 
 💼 LinkedIn: [linkedin.com/in/joão-ranulfo-eloia-18713ab7]
 
