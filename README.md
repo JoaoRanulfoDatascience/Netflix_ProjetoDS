@@ -53,7 +53,7 @@ Os gêneros mais populares são Drama, Comédia e Documentário.
 ## ✅ Como Executar o Projeto
 Clone este repositório:
 ```bash
-git clone https://github.com/JoaoRanulfoDatascience/Netflix-EDA.git
+git clone https://github.com/JoaoRanulfoDatascience/Netflix_ProjetoDS.git
 ```
 Instale as dependências:
 ```bash
