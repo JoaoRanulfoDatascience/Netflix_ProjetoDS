@@ -2,16 +2,11 @@
 
 
 ## 📍 Sobre o Projeto
-Este projeto tem como objetivo realizar uma Análise Exploratória de Dados (EDA) utilizando o dataset público da Netflix disponível no Kaggle. A ideia é explorar o catálogo de títulos (filmes e séries), entender padrões de lançamento, distribuição por país, tipo de conteúdo e outras características relevantes.
+Este projeto tem como objetivo realizar uma Análise Exploratória de Dados (EDA) utilizando dados do catálogo da Netflix. A ideia é explorar os títulos (filmes e séries), entender padrões de lançamento, distribuição por país, tipo de conteúdo e outras características relevantes.
 
-🗃️ Dataset Utilizado
-Fonte: Kaggle
+🔄 **Atualização**: originalmente este projeto utilizava um dataset do Kaggle, mas foi atualizado com uma versão mais completa contendo colunas como *diretor*, *elenco*, *data de adição*, *duração* e *descrição*. Isso possibilitou análises mais aprofundadas sobre o conteúdo da plataforma.
 
-Link: Netflix Movies and TV Shows
-
-Tamanho: ~ 6.000 registros
-
-Formato: CSV
+🗃️ Dataset no formato .csv (fornecido por colaboração acadêmica)
 
 ## 🎯 Objetivos da Análise
 Identificar a quantidade de filmes x séries disponíveis na plataforma.
@@ -55,10 +50,7 @@ Os Estados Unidos lideram como o país com mais títulos disponíveis.
 
 Os gêneros mais populares são Drama, Comédia e Documentário.
 
-✅ Como Executar o Projeto
-Faça o download do dataset no Kaggle para explorar os dados utilizados neste projeto 
-acesse: https://www.kaggle.com/datasets/octopusteam/full-netflix-dataset
-
+## ✅ Como Executar o Projeto
 Clone este repositório:
 ```bash
 git clone https://github.com/JoaoRanulfoDatascience/Netflix-EDA.git
@@ -71,16 +63,14 @@ Execute o Jupyter Notebook:
 ```bash
 jupyter notebook
 ```
-Abra o arquivo Netflix_EDA.ipynb e explore as análises.
+Abra o arquivo netflix_analise_exploratoria.ipynb e explore as análises.
 
 📌 Próximos Passos (Melhorias Futuras)
 Aplicar Machine Learning para recomendações de conteúdo.
 
 Criar dashboards interativos com Streamlit ou Power BI.
 
-Enriquecer a análise com dados externos (IMDb Ratings, por exemplo).
-
-✉️ Contato
+### ✉️ Contato
 Se quiser saber mais ou tiver sugestões:
 
 📧 Email: joaouninove@hotmail.com
