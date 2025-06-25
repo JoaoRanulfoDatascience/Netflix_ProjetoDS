@@ -57,7 +57,7 @@ Os gêneros mais populares são Drama, Comédia e Documentário.
 
 ✅ Como Executar o Projeto
 Faça o download do dataset no Kaggle para explorar os dados utilizados neste projeto 
-acesse: [https://www.kaggle.com/datasets/octopusteam/full-netflix-dataset]
+acesse: https://www.kaggle.com/datasets/octopusteam/full-netflix-dataset
 
 Clone este repositório:
 ```bash
@@ -83,10 +83,10 @@ Enriquecer a análise com dados externos (IMDb Ratings, por exemplo).
 ✉️ Contato
 Se quiser saber mais ou tiver sugestões:
 
-📧 Email: [joaouninove@hotmail.com]
+📧 Email: joaouninove@hotmail.com
 
-💼 LinkedIn: [https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BgtW2kgFBSwqxStIw8zl3bw%3D%3D]
+💼 LinkedIn: https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BgtW2kgFBSwqxStIw8zl3bw%3D%3D
 
-🐍 GitHub: [https://github.com/JoaoRanulfoDatascience]
+🐍 GitHub: https://github.com/JoaoRanulfoDatascience
 
 
