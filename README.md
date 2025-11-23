@@ -1,14 +1,14 @@
 # 📊 Análise Exploratória de Dados - Catálogo Netflix 🎬
 
 
-## 📍 Sobre o Projeto
+##  Sobre o Projeto
 Este projeto tem como objetivo realizar uma Análise Exploratória de Dados (EDA) utilizando dados do catálogo da Netflix. A ideia é explorar os títulos (filmes e séries), entender padrões de lançamento, distribuição por país, tipo de conteúdo e outras características relevantes.
 
-🔄 **Atualização**: originalmente este projeto utilizava um dataset do Kaggle, mas foi atualizado com uma versão mais completa contendo colunas como *diretor*, *elenco*, *data de adição*, *duração* e *descrição*. Isso possibilitou análises mais aprofundadas sobre o conteúdo da plataforma.
+**Atualização**: originalmente este projeto utilizava um dataset do Kaggle, mas foi atualizado com uma versão mais completa contendo colunas como *diretor*, *elenco*, *data de adição*, *duração* e *descrição*. Isso possibilitou análises mais aprofundadas sobre o conteúdo da plataforma.
 
-🗃️ Dataset no formato .csv (fornecido por colaboração acadêmica)
+Dataset no formato .csv (fornecido por colaboração acadêmica)
 
-## 🎯 Objetivos da Análise
+## Objetivos da Análise
 Identificar a quantidade de filmes x séries disponíveis na plataforma.
 
 Analisar os países com maior produção de conteúdo.
@@ -19,7 +19,7 @@ Entender os principais gêneros presentes na Netflix.
 
 Explorar dados de diretores, elencos e classificação indicativa.
 
-### 🛠️ Ferramentas e Tecnologias Utilizadas
+### Ferramentas e Tecnologias Utilizadas
 Python 3
 
 Jupyter Notebook
@@ -41,7 +41,7 @@ Seaborn
 
 📌 Classificação etária mais comum
 
-## 🔍 Principais Insights
+## Principais Insights
 O catálogo da Netflix possui uma maior quantidade de filmes em relação a séries.
 
 O maior volume de lançamentos ocorreu por volta de 2019.
@@ -50,7 +50,7 @@ Os Estados Unidos lideram como o país com mais títulos disponíveis.
 
 Os gêneros mais populares são Drama, Comédia e Documentário.
 
-## ✅ Como Executar o Projeto
+## Como Executar o Projeto
 Clone este repositório:
 ```bash
 git clone https://github.com/JoaoRanulfoDatascience/Netflix_ProjetoDS.git
@@ -70,13 +70,18 @@ Aplicar Machine Learning para recomendações de conteúdo.
 
 Criar dashboards interativos com Streamlit ou Power BI.
 
-### ✉️ Contato
-Se quiser saber mais ou tiver sugestões:
+### 📫 Contatos
 
-📧 Email: joaouninove@hotmail.com
-
-💼 LinkedIn: https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BgtW2kgFBSwqxStIw8zl3bw%3D%3D
-
-🐍 GitHub: https://github.com/JoaoRanulfoDatascience
+<div align="center">
+  <a href="mailto:joaouninove9@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
+  </a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-ranulfo-eloia-18713ab7" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+  <a href="https://github.com/JoaoRanulfoDatascience" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
+  </a>
+</div>
 
 
