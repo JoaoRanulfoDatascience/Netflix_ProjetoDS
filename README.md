@@ -17,8 +17,6 @@ Verificar a evolução dos lançamentos ao longo dos anos.
 
 Entender os principais gêneros presentes na Netflix.
 
-Explorar dados de diretores, elencos e classificação indicativa.
-
 ### Ferramentas e Tecnologias Utilizadas
 Python 3
 
@@ -30,6 +28,8 @@ Matplotlib
 
 Seaborn
 
+Numpy
+
 ## 📈 Principais Análises Realizadas
 📌 Distribuição entre Filmes e Séries
 
@@ -39,16 +39,14 @@ Seaborn
 
 📌 Gêneros mais frequentes
 
-📌 Classificação etária mais comum
-
 ## Principais Insights
 O catálogo da Netflix possui uma maior quantidade de filmes em relação a séries.
 
-O maior volume de lançamentos ocorreu por volta de 2019.
+O maior volume de lançamentos ocorreu por volta de 2015 a 2020.
 
-Os Estados Unidos lideram como o país com mais títulos disponíveis.
+Os Estados Unidos lideram como o país com mais títulos disponíveis no catálogo.
 
-Os gêneros mais populares são Drama, Comédia e Documentário.
+Os gêneros mais populares são Drama, Comédia e Ação.
 
 ## Como Executar o Projeto
 Clone este repositório:
@@ -64,11 +62,6 @@ Execute o Jupyter Notebook:
 jupyter notebook
 ```
 Abra o arquivo netflix_analise_exploratoria.ipynb e explore as análises.
-
-📌 Próximos Passos (Melhorias Futuras)
-Aplicar Machine Learning para recomendações de conteúdo.
-
-Criar dashboards interativos com Streamlit ou Power BI.
 
 ### 📫 Contatos
 
